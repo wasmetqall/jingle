@@ -1,0 +1,24 @@
+{ "status": "T", "errno": "0", "errmsg": "", "result": [
+        [
+            ["\u963f\u5fb7", 2, { "pinyin": "a'de", "type": "IMEDICT" }],
+            ["\u554a\u6253", 2, { "pinyin": "a'da", "type": "NEWWORD" }],
+            ["\u963f\u6253", 2, { "pinyin": "a'da", "type": "NEWWORD" }],
+            ["\u963f\u8fea", 2, { "pinyin": "a'di", "type": "IMEDICT" }],
+            ["\u0061\u0064\u0073\u006c", 2, { "pinyin": "", "type": "EN_AS" }],
+            ["\u963f\u5446", 2, { "pinyin": "a'dai", "type": "IMEDICT" }],
+            ["\u963f\u6597", 2, { "pinyin": "a'dou", "type": "IMEDICT" }],
+            ["\u963f\u675c", 2, { "pinyin": "a'du", "type": "IMEDICT" }],
+            ["\u554a\u5bf9", 2, { "pinyin": "a'dui", "type": "IMEDICT" }],
+            ["\u963f\u7684", 2, { "pinyin": "a'di", "type": "IMEDICT" }],
+            ["\u963f\u6735", 2, { "pinyin": "a'duo", "type": "IMEDICT" }],
+            ["\u963f\u4e1c", 2, { "pinyin": "a'dong", "type": "IMEDICT" }],
+            ["\u963f\u8fbe", 2, { "pinyin": "a'da", "type": "IMEDICT" }],
+            ["\u963f\u591a", 2, { "pinyin": "a'duo", "type": "IMEDICT" }],
+            ["\u963f\u7239", 2, { "pinyin": "a'die", "type": "IMEDICT" }],
+            ["\u963f\u4e39", 2, { "pinyin": "a'dan", "type": "IMEDICT" }],
+            ["\u963f\u5927", 2, { "pinyin": "a'da", "type": "IMEDICT" }],
+            ["\u963f\u5f1f", 2, { "pinyin": "a'di", "type": "IMEDICT" }],
+            ["\u963f\u767b", 2, { "pinyin": "a'deng", "type": "IMEDICT" }],
+            ["\u963f\u8c46", 2, { "pinyin": "a'dou", "type": "IMEDICT" }]
+        ], "a'd"
+    ] }
